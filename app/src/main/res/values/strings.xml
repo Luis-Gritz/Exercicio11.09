@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exercicio2</string>
+    <string-array name="unidade_array">
+        <item>Kg</item>
+        <item>L</item>
+        <item>g</item>
+    </string-array>
+</resources>
